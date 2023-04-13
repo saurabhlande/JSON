@@ -1,42 +1,42 @@
-[  
-   {  
-      name:'Max Abc',
-      gender:'max@gmail.com',
+[
+   {
+      "name":"Max Abc",
+      "gender":"max@gmail.com"
    },
-   {  
-      name:'Rio Xyz',
-      gender:'rio@google.com',
+   {
+      "name":"Rio Xyz",
+      "gender":"rio@google.com"
    },
-   {  
-      name:'Rocky',
-      gender:'rocky@google.com',
+   {
+      "name":"Rocky",
+      "gender":"rocky@google.com"
    },
-   {  
-      name:'Abc Xyz',
-      gender:'abcxyz@xyz.com',
-   },   
-   {  
-      name:'Mac Abcd',
-      gender:'mac@gmail.com',
+   {
+      "name":"Abc Xyz",
+      "gender":"abcxyz@xyz.com"
    },
-   {  
-      name:'Keera Axyz',
-      gender:'keera@gmail.com',
+   {
+      "name":"Mac Abcd",
+      "gender":"mac@gmail.com"
    },
-   {  
-      name:'Raghav Abcd',
-      gender:'raghav@gmail.com',
+   {
+      "name":"Keera Axyz",
+      "gender":"keera@gmail.com"
    },
-   {  
-      name:'Tom XyzD',
-      gender:'tom@google.com',
+   {
+      "name":"Raghav Abcd",
+      "gender":"raghav@gmail.com"
    },
-   {  
-      name:'Maxwell',
-      gender:'maxwell@outlook.com',
+   {
+      "name":"Tom XyzD",
+      "gender":"tom@google.com"
    },
-   {  
-      name:'AB D..',
-      gender:'abd143@outlook.co.in',
+   {
+      "name":"Maxwell",
+      "gender":"maxwell@outlook.com"
+   },
+   {
+      "name":"AB D..",
+      "gender":"abd143@outlook.co.in"
    }
 ]
